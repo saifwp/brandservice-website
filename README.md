@@ -1,6 +1,3 @@
-# brandservice-website  
-A custom-built **WordPress website** crafted to promote brand services and creative portfolios. Designed for impact, the site features dynamic **service listings**, a sleek **portfolio showcase**, integrated **contact forms**, and a fully **responsive, SEO-optimized design** to drive visibility and engagement.
-
 # 🌐 Brand Service Website – [Live Website](https://cloud-comm.net/)
 
 ---
@@ -47,10 +44,10 @@ With a focus on **performance, user experience**, and **modern web standards**, 
 ---
 
 ## 🚀 Project Highlights  
-- ✅ Boosts brand credibility with a clean and structured layout  
-- ✅ Engages users with a visually appealing portfolio and service breakdown  
-- ✅ Encourages conversions through intuitive contact forms and calls-to-action  
-- ✅ Built for scalability as the brand grows
+-  Boosts brand credibility with a clean and structured layout  
+-  Engages users with a visually appealing portfolio and service breakdown  
+-  Encourages conversions through intuitive contact forms and calls-to-action  
+-  Built for scalability as the brand grows
 
 ---
 
